@@ -27,7 +27,7 @@
 % - mnl_ieegBasics: https://github.com/MultimodalNeuroimagingLab/mnl_ieegBasics
 % - CRP_method is already included in ./functions to avoid separate installation. See file for original reference.
 %
-% Download the data from [XX] and copy the files to a "data" folder in the working directory (./data)
+% Download the data files from OSF (https://osf.io/ryfqt/) and copy them to a "data" folder in the working directory (./data)
 
 % set paths, make output directory
 addpath('functions');
