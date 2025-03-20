@@ -1,7 +1,7 @@
 If this code is used in a publication, please cite the manuscript:
 "Proper reference selection and re-referencing to mitigate bias in single pulse electrical stimulation data",
 by H. Huang, J.A. Adkinson, M.A. Jensen, M. Hasen, I.A. Danstrom, K.R. Bijanki, N.M. Gregg, K.J. Miller, S.A. Sheth, D. Hermes, E. Bartoli.
-A preprint is available currently at DOI: https://doi.org/10.1101/2024.10.21.619449.
+The manuscript is currently under review at the Journal of Neuroscience Methods. A preprint is available on biorxiv: https://doi.org/10.1101/2024.10.21.619449.
 
 Correspondence:
 H Huang: huang.harvey@mayo.edu; D Hermes: hermes.dora@mayo.edu; E Bartoli: eleonora.bartoli@bcm.edu
